@@ -9,6 +9,10 @@ pandas = "*"
 matplotlib = "*"
 seaborn = "*"
 ipykernel = "*"
+openpyxl = "*"
+plotly = "*"
+nbformat = "*"
+dash = "*"
 
 [dev-packages]
 
