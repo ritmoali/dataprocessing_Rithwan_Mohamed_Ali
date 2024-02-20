@@ -13,6 +13,10 @@ openpyxl = "*"
 plotly = "*"
 nbformat = "*"
 dash = "*"
+dash-bootstrap-components = "*"
+py-mon = "*"
+plotly-express = "*"
+dash-bootstrap-templates = "*"
 
 [dev-packages]
 
